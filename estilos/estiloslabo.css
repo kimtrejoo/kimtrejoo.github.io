@@ -1,0 +1,33 @@
+#figu{
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}
+#tite{
+    display:inline-block;
+    font-family: monospace;
+    font-size: 2em;
+    width: 70%;
+    padding: 10px;
+    border: azure solid;
+    background-color: azure;
+    box-shadow:  7px 7px cadetblue;
+    border-radius: 12px;
+    
+    
+}
+h4{
+    clear: both;
+    font-family: monospace;
+    font-size: 1.2em;
+}
+p{
+    font-family: monospace;
+    width: 90%;
+    font-size: 1.1em;
+}
+.ima{
+    display: inline-block;
+    float: left;
+    padding: 10px;
+}

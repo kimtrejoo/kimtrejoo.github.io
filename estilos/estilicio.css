@@ -1,0 +1,30 @@
+#pepe{
+    display: inline-block;
+    width: 15%;
+    float: left;
+    padding: 10px;
+    border: cadetblue solid;
+    border-radius: 12px;
+    background-color: azure;
+}
+.papa{
+     display:inline-block;
+    font-family: monospace;
+    font-size: 2em;
+    width: 70%;
+    padding: 10px;
+    border: azure solid;
+    background-color: azure;
+    box-shadow:  7px 7px cadetblue;
+    border-radius: 12px;
+}
+#chichi{
+    clear: both;
+}
+h3{
+    font-family: monospace;
+    
+}
+p{
+    font-family: monospace;
+}

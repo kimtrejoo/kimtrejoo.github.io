@@ -1,0 +1,29 @@
+#a{
+    display:inline-block;
+    font-family: monospace;
+    font-size: 2em;
+    width: 70%;
+    padding: 10px;
+    border: azure solid;
+    background-color: azure;
+    box-shadow:  7px 7px cadetblue;
+    border-radius: 12px;
+    
+    
+}
+#e{
+    display: inline-block;
+    float: left;
+    border: cadetblue solid;
+    padding: 5px;
+    border-radius: 12px;
+    
+}p{
+    clear: both;
+    font-family: monospace;
+}
+h3{
+    clear: both;
+    font-family:monospace;
+    
+}
